@@ -1,0 +1,7 @@
+Thingspeak:
+https://thingspeak.com/channels/2332757
+
+Firebase: 
+https://console.firebase.google.com/u/0/project/weather-forecast-13899/database/weather-forecast-13899-default-rtdb/data/~2Fweather_data
+
+
